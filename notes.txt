@@ -1,0 +1,9 @@
+What is an AI Agent?
+A system that can perceive its environment, make decisions and act autonomously to achieve a specific goals.
+It OBSERVES, THINGS and ACTS.
+
+Example:
+Siri
+Perceives: Listens to your voice command e.g., "what's the weather today?"
+Thinks: Converts speech to text and interprets intent using NLP, then searches for the answer
+Acts: Responds with a spoken answer or performs a task. e.g., "The weather is 20 degrees today in London"
