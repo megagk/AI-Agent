@@ -1,3 +1,8 @@
+================= To do =================
+- Currently the response string is not being parsed properly. Make sure to read pydantic documentation to fix.
+- Update to latest package
+
+================= Background =================
 What is an AI Agent?
 A system that can perceive its environment, make decisions and act autonomously to achieve a specific goals.
 It OBSERVES, THINGS and ACTS.
