@@ -1,4 +1,5 @@
-**Simple AI Agent Scaffold**
+**Simple AI Agent Scaffolds**
 
-Utilises OpenAIs API and LangChain to create an AI Agent that can be used to conduct research. 
-Can be altered to give access to EBSCOHost to summarise research papers etc on a topic of interest. Following research it saves notes to a research_output file...
+Utilises OpenAIs API and LangChain to create a couple AI Agent:
+1. Research_agent: Intended for work with research task
+2. Finance_agent: intended for work with financial data 
